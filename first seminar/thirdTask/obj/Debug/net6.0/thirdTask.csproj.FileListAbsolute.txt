@@ -1,0 +1,15 @@
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\thirdTask\obj\Debug\net6.0\thirdTask.csproj.AssemblyReference.cache
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\thirdTask\obj\Debug\net6.0\thirdTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\thirdTask\obj\Debug\net6.0\thirdTask.AssemblyInfoInputs.cache
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\thirdTask\obj\Debug\net6.0\thirdTask.AssemblyInfo.cs
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\thirdTask\obj\Debug\net6.0\thirdTask.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\thirdTask\bin\Debug\net6.0\thirdTask.exe
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\thirdTask\bin\Debug\net6.0\thirdTask.deps.json
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\thirdTask\bin\Debug\net6.0\thirdTask.runtimeconfig.json
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\thirdTask\bin\Debug\net6.0\thirdTask.dll
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\thirdTask\bin\Debug\net6.0\thirdTask.pdb
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\thirdTask\obj\Debug\net6.0\thirdTask.dll
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\thirdTask\obj\Debug\net6.0\refint\thirdTask.dll
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\thirdTask\obj\Debug\net6.0\thirdTask.pdb
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\thirdTask\obj\Debug\net6.0\thirdTask.genruntimeconfig.cache
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\thirdTask\obj\Debug\net6.0\ref\thirdTask.dll

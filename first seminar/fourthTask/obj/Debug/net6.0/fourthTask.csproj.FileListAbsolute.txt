@@ -1,0 +1,15 @@
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\fourthTask\obj\Debug\net6.0\fourthTask.csproj.AssemblyReference.cache
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\fourthTask\obj\Debug\net6.0\fourthTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\fourthTask\obj\Debug\net6.0\fourthTask.AssemblyInfoInputs.cache
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\fourthTask\obj\Debug\net6.0\fourthTask.AssemblyInfo.cs
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\fourthTask\obj\Debug\net6.0\fourthTask.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\fourthTask\bin\Debug\net6.0\fourthTask.exe
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\fourthTask\bin\Debug\net6.0\fourthTask.deps.json
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\fourthTask\bin\Debug\net6.0\fourthTask.runtimeconfig.json
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\fourthTask\bin\Debug\net6.0\fourthTask.dll
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\fourthTask\bin\Debug\net6.0\fourthTask.pdb
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\fourthTask\obj\Debug\net6.0\fourthTask.dll
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\fourthTask\obj\Debug\net6.0\refint\fourthTask.dll
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\fourthTask\obj\Debug\net6.0\fourthTask.pdb
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\fourthTask\obj\Debug\net6.0\fourthTask.genruntimeconfig.cache
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\fourthTask\obj\Debug\net6.0\ref\fourthTask.dll

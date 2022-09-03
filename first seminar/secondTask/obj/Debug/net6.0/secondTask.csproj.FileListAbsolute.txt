@@ -1,0 +1,15 @@
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\secondTask\bin\Debug\net6.0\secondTask.exe
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\secondTask\bin\Debug\net6.0\secondTask.deps.json
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\secondTask\bin\Debug\net6.0\secondTask.runtimeconfig.json
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\secondTask\bin\Debug\net6.0\secondTask.dll
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\secondTask\bin\Debug\net6.0\secondTask.pdb
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\secondTask\obj\Debug\net6.0\secondTask.csproj.AssemblyReference.cache
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\secondTask\obj\Debug\net6.0\secondTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\secondTask\obj\Debug\net6.0\secondTask.AssemblyInfoInputs.cache
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\secondTask\obj\Debug\net6.0\secondTask.AssemblyInfo.cs
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\secondTask\obj\Debug\net6.0\secondTask.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\secondTask\obj\Debug\net6.0\secondTask.dll
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\secondTask\obj\Debug\net6.0\refint\secondTask.dll
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\secondTask\obj\Debug\net6.0\secondTask.pdb
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\secondTask\obj\Debug\net6.0\secondTask.genruntimeconfig.cache
+C:\Users\Vladimir\Desktop\cs\homework\first seminar\secondTask\obj\Debug\net6.0\ref\secondTask.dll
