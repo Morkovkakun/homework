@@ -1,8 +1,8 @@
 Console.WriteLine("Введите три числа");
 
-string firstNumber = Console.ReadLine();
-string secondNumber = Console.ReadLine();
-string thirdNumber = Console.ReadLine();
+string firstNumber = Console.ReadLine()!;
+string secondNumber = Console.ReadLine()!;
+string thirdNumber = Console.ReadLine()!;
 
 int intFirstNumber = int.Parse(firstNumber);
 int intSecondNumber = int.Parse(secondNumber);

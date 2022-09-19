@@ -4,7 +4,7 @@
 
 Console.WriteLine("enter day of a week");
 
-int dayNumber = int.Parse(Console.ReadLine());
+int dayNumber = int.Parse(Console.ReadLine()!);
 
 //это на февраль 
 

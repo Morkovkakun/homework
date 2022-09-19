@@ -2,7 +2,7 @@
 
     Console.WriteLine("enter a number consisting of five elements: ");
 
-    string number = Console.ReadLine();
+    string number = Console.ReadLine()!;
     int length = number.Length;
     bool logicTest = true;
 

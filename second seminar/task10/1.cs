@@ -2,7 +2,7 @@
 
 Console.WriteLine("enter a number consisting of three elements");
 
-int number = int.Parse(Console.ReadLine());
+int number = int.Parse(Console.ReadLine()!);
 
 if (number >= 100 && number <= 999)
     {
