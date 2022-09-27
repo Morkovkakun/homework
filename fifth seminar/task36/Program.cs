@@ -8,7 +8,6 @@ class program
         Console.Write("enter array size:\t");
         int elementsCount = int.Parse(Console.ReadLine()!);
 
-        int oddIndexNumberCounter = 0;
         int sum = 0;
         int[] array = new int[elementsCount];
 
