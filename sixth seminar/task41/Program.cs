@@ -15,7 +15,7 @@ class program
         while (countOfNumber < number)
         {
             Console.WriteLine($"Enter number [{countOfNumber}]:");
-            array[countOfNumber] = int.Parse(Console.ReadLine());
+            array[countOfNumber] = int.Parse(Console.ReadLine()!);
             countOfNumber++;
         }
 
